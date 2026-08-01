@@ -64,7 +64,7 @@ The repository contains the following files, with details on how to use them:
      Review the insights and trends derived from the dataset.
 
 3. **[Presentation and Report](https://github.com/KunalGarodi/Walmart-Sales-Forecasting-Project/blob/main/Presentation%2C%20Report/Walmart_Project_Report_kunal.pdf)**:  
-   - `Walmart_Project_Report_Kunal.docx`: Provides a summary of key findings and forecasts.  
+   - `Walmart_Project_Report.pdf`: Provides a summary of key findings and forecasts.  
      Check this file to understand the final results and recommendations.
 
 4. **[Problem Statement](https://github.com/KunalGarodi/Walmart-Sales-Forecasting-Project/blob/main/Problem%20Statement/Capstone%20Project%20(Walmart).pdf)**:  
