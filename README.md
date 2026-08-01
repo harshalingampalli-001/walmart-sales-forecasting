@@ -60,7 +60,7 @@ The repository contains the following files, with details on how to use them:
      Use this file to replicate the analysis and modeling process.
 
 2. **[Analysis File](https://github.com/KunalGarodi/Walmart-Sales-Forecasting-Project/blob/main/Analysis%20File/Walmart%20Capstone%20Project_Kunal%20Garodi.ipynb)**:  
-   - `Walmart Capstone Project_Kunal.xlsx`: This Excel file contains data exploration, analysis, and visualizations.  
+   - `Walmart Capstone Project_harsha.ipynb`: This Excel file contains data exploration, analysis, and visualizations.  
      Review the insights and trends derived from the dataset.
 
 3. **[Presentation and Report](https://github.com/KunalGarodi/Walmart-Sales-Forecasting-Project/blob/main/Presentation%2C%20Report/Walmart_Project_Report_kunal.pdf)**:  
