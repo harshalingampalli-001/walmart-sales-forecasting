@@ -55,19 +55,19 @@ The following analyses have been performed on the provided weekly sales data:
 
 The repository contains the following files, with details on how to use them:
 
-1. **[Dataset](https://github.com/KunalGarodi/Walmart-Sales-Forecasting-Project/blob/main/Dataset/Walmart%20DataSet.csv)**:  
+1. **[Dataset]:  
    - `Walmart DataSet.csv`: Contains historical sales data for various Walmart outlets.  
      Use this file to replicate the analysis and modeling process.
 
-2. **[Analysis File](https://github.com/KunalGarodi/Walmart-Sales-Forecasting-Project/blob/main/Analysis%20File/Walmart%20Capstone%20Project_Kunal%20Garodi.ipynb)**:  
+2. **[Analysis File]:  
    - `Walmart Capstone Project_harsha.ipynb`: This Excel file contains data exploration, analysis, and visualizations.  
      Review the insights and trends derived from the dataset.
 
-3. **[Presentation and Report](https://github.com/KunalGarodi/Walmart-Sales-Forecasting-Project/blob/main/Presentation%2C%20Report/Walmart_Project_Report_kunal.pdf)**:  
+3. **[Presentation and Report]:  
    - `Walmart_Project_Report.pdf`: Provides a summary of key findings and forecasts.  
      Check this file to understand the final results and recommendations.
 
-4. **[Problem Statement](https://github.com/KunalGarodi/Walmart-Sales-Forecasting-Project/blob/main/Problem%20Statement/Capstone%20Project%20(Walmart).pdf)**:  
+4. **[Problem Statement]:  
    - `Capstone Project (Walmart).pdf`: Outlines the problem and objectives of the project.  
      Refer to this document for detailed information about the project scope.
 
