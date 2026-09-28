@@ -6,7 +6,7 @@ This repository contains the necessary files and resources for the Walmart Sales
 
 ## **Problem Statement**
 
-### **[Problem Statement](https://github.com/KunalGarodi/Walmart-Sales-Forecasting-Project/blob/main/Problem%20Statement/Capstone%20Project%20(Walmart).pdf): Inventory and Sales Management Issues**
+### **[Problem Statement]: Inventory and Sales Management Issues**
 
 A retail store with multiple outlets across the country is facing challenges in managing its inventory to match the demand and supply accurately. The objective of this project is to analyze the weekly sales data and forecast future sales to help Walmart improve its inventory management.
 
